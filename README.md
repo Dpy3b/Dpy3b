@@ -4,7 +4,8 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 
 ### Currently focusing on frontend development improvements
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+
+<img align="right" src="https://keep-calm.net/images/keep-calm-and-learn-javascript-400-400-white-blue.jpg">
 
 - 🔭 I’m currently working on online sports store
 - 🌱 I’m currently learning javascript and advanced web technologies
