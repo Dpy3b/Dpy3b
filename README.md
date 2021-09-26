@@ -12,7 +12,7 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 - 👯 I’m looking to collaborate with people who are also passionate about frontend development and working on creative projects
 - 🤔 I’m looking for help with Vue.js and PHP 
 - 💬 Ask me anything
-- 📫 How to reach me: write me in <a href="https://t.me/Dpy3b">Telegram</a>
+- 📫 How to contact me: write me in <a href="https://t.me/Dpy3b">Telegram</a>
 - ⚡ Fun fact: The average cloud weighs about 500 tons, the same weigh 80 elephants.
 
 <br>
