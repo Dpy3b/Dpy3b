@@ -7,10 +7,10 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 
 <img align="right" src="https://keep-calm.net/images/keep-calm-and-learn-javascript-400-400-white-blue.jpg">
 
-- 🔭 I’m currently working on online sports store
-- 🌱 I’m currently learning javascript and advanced web technologies
+- 🔭 I'm currently working on React.js single page applications
+- 🌱 I’m currently learning React.js and Typescript
 - 👯 I’m looking to collaborate with people who are also passionate about frontend development and working on creative projects
-- 🤔 I’m looking for help with Vue.js and PHP 
+- 🤔 I’m looking for help with Next.js and Redux 
 - 💬 Ask me anything
 - 📫 How to contact me: write me in <a href="https://t.me/Dpy3b">Telegram</a>
 - ⚡ Fun fact: The average cloud weighs about 500 tons, the same weigh 80 elephants.
@@ -21,9 +21,9 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 
 <code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023878-f6415180-b355-11eb-940f-66432cfabac2.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023882-f7727e80-b355-11eb-9657-5d73609889dc.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023885-f7727e80-b355-11eb-90de-9fa41de2f139.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023887-f7727e80-b355-11eb-82f2-636123b8098e.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023888-f80b1500-b355-11eb-85b4-b072a8a395fa.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png"></code>
