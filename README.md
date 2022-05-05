@@ -39,6 +39,9 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpy3b&theme=react&line_height=10&hide_langs_below=1&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=dpy3b&show_icons=true&theme=react" alt="Dpy3b" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dpy3b&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=dpy3b&column=7&theme=dracula&no-frame=true" alt="Dpy3b github trophy"/>
 
 ![](https://komarev.com/ghpvc/?username=dpy3b&color=orange)
