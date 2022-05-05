@@ -37,9 +37,9 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 
 ### GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpy3b&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=dpy3b&show_icons=true&theme=gotham" alt="peura-lady" />
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=dpy3b&column=7&theme=dracula&no-frame=true" alt="Anya's github trophy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpy3b&theme=react&line_height=10&hide_langs_below=1&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=dpy3b&show_icons=true&theme=react" alt="Dpy3b" />
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=dpy3b&column=7&theme=dracula&no-frame=true" alt="Dpy3b github trophy"/>
 
 ![](https://komarev.com/ghpvc/?username=dpy3b&color=orange)
 
