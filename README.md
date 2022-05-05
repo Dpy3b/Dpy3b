@@ -5,7 +5,7 @@ I'm <a href="https://github.com/dpy3b"><b>Dpy3b</b></a> (pronunciation in Englis
 ### Currently focusing on frontend development improvements
 
 
-<img align="right" src="https://keep-calm.net/images/keep-calm-and-learn-javascript-400-400-white-blue.jpg">
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
 
 - 🔭 I'm currently working on React.js single page applications
 - 🌱 I’m currently learning React.js and Typescript
